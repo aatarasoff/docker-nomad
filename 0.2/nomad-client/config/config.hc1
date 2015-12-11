@@ -1,0 +1,10 @@
+# Increase log verbosity
+log_level = "INFO"
+
+# Setup data dir
+data_dir = "/data"
+
+# Enable the server
+client {
+    enabled = true
+}

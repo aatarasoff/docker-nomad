@@ -1,0 +1,12 @@
+# Increase log verbosity
+log_level = "INFO"
+
+# Setup data dir
+data_dir = "/data"
+
+# Enable the server
+server {
+    enabled = true
+
+    bootstrap_expect = 3
+}
